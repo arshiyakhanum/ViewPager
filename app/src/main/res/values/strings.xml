@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Viewpager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="circle_desc">circle view</string>
+    <string name="welcome">Welcome</string>
+    <string name="description">description</string>
+</resources>
